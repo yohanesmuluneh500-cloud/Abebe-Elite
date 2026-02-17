@@ -1,0 +1,9 @@
+{
+  "name": "Abebe neutration co",
+  "description": "An AI-powered hypertrophy specialist for workout programming, macro tracking, and form cues.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
